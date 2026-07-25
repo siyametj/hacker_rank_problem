@@ -171,7 +171,7 @@ Found a bug or have a better solution? Feel free to:
 ## 📞 Connect With Me
 
 - **GitHub:** [@siyametj](https://github.com/siyametj)
-- **HackerRank:** [Profile Link]
+- **HackerRank:** [https://www.hackerrank.com/profile/s93753564]
 
 ---
 
